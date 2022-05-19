@@ -1,0 +1,24 @@
+p {
+    line-height:26px; 
+    }
+    ul{
+     line-height:22px; 
+    }
+    figcaption{
+      font-size:13px;
+      margin-top:10px;
+    }
+    figure{
+      padding:18px;
+      border:2px solid #e0e4e8;
+      margin:20px 0 20px 0;
+        
+    }
+    .figure-cathedral {
+      float:right;
+      margin:0 0 0 40px;
+    }
+    .figure-nasdaq{
+      float:left;
+      margin:0 40px 0 0;
+    }
